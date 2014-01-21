@@ -9,7 +9,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+        <textarea id="TextArea1" cols="20" rows="2"></textarea>
+        <input id="Button1" type="button" value="button" />
     </div>
     </form>
 </body>
